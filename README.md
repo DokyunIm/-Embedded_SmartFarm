@@ -34,5 +34,8 @@
 ***
 ### Demonstration video
   -  <https://youtu.be/ec6dLWDKQro>
+***
+### Capture the screen showing data on the web
+  - ![Capture](./img/smartfarm.jpeg)
     
     
